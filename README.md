@@ -17,11 +17,11 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
-<<<<<<< HEAD
+
 Nama    : Zahwa Affrida R.P
 NIM     : 264107020202
 Kelas   : TI.1F
-P ganjil: 2
+P ganjil      : 2
 
 Hasil Uji Studi 2 oleh Zahwa
 | No |Jenis  | Dokumen | Juara/Dana |    Output    | Sesuai  |
