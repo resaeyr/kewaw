@@ -21,6 +21,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 Nama    : Zahwa Affrida R.P
 NIM     : 264107020202
 Kelas   : TI.1F
+P ganjil: 2
 
 Hasil Uji Studi 2 oleh Zahwa
 | No |Jenis  | Dokumen | Juara/Dana |    Output    | Sesuai  |
