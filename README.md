@@ -20,3 +20,16 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 Nama    : Kheila Zahra Ayundria Pribadi
 NIM     : 264107020179
 Kelas   : TI.1F
+
+Hasil Uji Studi 2 oleh Kheila
+| No |Jenis  | Dokumen | Juara/Dana | Output| Sesuai  |
+|----|-------|---------|------------|-------|---------|
+|  1 |Belmawa|    4    |      1     | Berhak|    Ya   |
+|----|-------|---------|------------|-------|---------|
+|  2 |Bakorma|    4    |      1     | Tidak |   Tidak |
+|    |       |         |            | berhak|         |
+|----|-------|---------|------------|-------|---------|
+|  3 |Mandiri|    2    |      1     | Tidak |   Tidak |
+|    |       |         |            | berhak|         |
+|----|-------|---------|------------|-------|---------|
+|  4 |  PKM  |    4    |      1     | Berhak|    Ya   |
