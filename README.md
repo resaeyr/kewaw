@@ -17,6 +17,40 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
+<<<<<<< HEAD
 Nama    : Zahwa Affrida R.P
 NIM     : 264107020202
 Kelas   : TI.1F
+
+Hasil Uji Studi 2 oleh Zahwa
+| No |Jenis  | Dokumen | Juara/Dana | Output| Sesuai  |
+|----|-------|---------|------------|-------|---------|
+|  1 |PKM    |    4    |      1     | Berhak|    Ya   |
+|----|-------|---------|------------|-------|---------|
+|  2 |Mandiri|    3    |      3     | Tidak |   Ya    |
+|    |       |         |            | berhak|         |
+|----|-------|---------|------------|-------|---------|
+|  3 |Belmawa|    4    |      0     | Tidak |   Ya    |
+|    |       |         |            | berhak|         |
+|----|-------|---------|------------|-------|---------|
+|  4 |Bakorma|    4    |      0     | Tidak |    Ya   |
+|    |       |         |            | berhak|         |
+
+=======
+Nama    : Kheila Zahra Ayundria Pribadi
+NIM     : 264107020179
+Kelas   : TI.1F
+
+Hasil Uji Studi 2 oleh Kheila
+| No |Jenis  | Dokumen | Juara/Dana | Output| Sesuai  |
+|----|-------|---------|------------|-------|---------|
+|  1 |Belmawa|    4    |      1     | Berhak|    Ya   |
+|----|-------|---------|------------|-------|---------|
+|  2 |Bakorma|    4    |      1     | Tidak |   Tidak |
+|    |       |         |            | berhak|         |
+|----|-------|---------|------------|-------|---------|
+|  3 |Mandiri|    2    |      1     | Tidak |   Tidak |
+|    |       |         |            | berhak|         |
+|----|-------|---------|------------|-------|---------|
+|  4 |  PKM  |    4    |      1     | Berhak|    Ya   |
+>>>>>>> ca9b86dd190e16190aa557cb25abccb1e112869f
